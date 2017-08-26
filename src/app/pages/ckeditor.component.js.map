@@ -1,0 +1,1 @@
+{"version":3,"file":"ckeditor.component.js","sourceRoot":"","sources":["ckeditor.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAe1C;IAEI;QACI,IAAI,CAAC,eAAe,GAAG,sBAAsB,CAAC;IAClD,CAAC;IAjBL;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,QAAQ;YAClB,QAAQ,EAAE,wRASA;SACb,CAAC;;yBAAA;IAMF,wBAAC;AAAD,CAAC,AALD,IAKC;AALY,yBAAiB,oBAK7B,CAAA"}

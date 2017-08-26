@@ -12,7 +12,7 @@
     map: {
       // our app is within the app folder
       'app': 'app',
-
+       "ng2-ckeditor": "npm:ng2-ckeditor",
       // angular bundles
       '@angular/core': 'npm:@angular/core/bundles/core.umd.js',
       '@angular/common': 'npm:@angular/common/bundles/common.umd.js',
@@ -36,6 +36,10 @@
             loader: 'systemjs-angular-loader.js'
           }
         }
+      },
+      "ng2-ckeditor": {
+        "main": "lib/index.js",
+        "defaultExtension": "js",
       },
       rxjs: {
         defaultExtension: 'js'
